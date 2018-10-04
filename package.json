@@ -88,7 +88,7 @@
     "test": "tests"
   },
   "dependencies": {
-    "broccoli-debug": "^0.6.3",
+    "broccoli-debug": "^0.6.5",
     "broccoli-funnel": "^2.0.0",
     "broccoli-merge-trees": "^3.0.1",
     "broccoli-stew": "^2.0.0",
