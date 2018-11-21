@@ -3989,9 +3989,20 @@ ember-power-select-blockless@^0.5.0:
     ember-cli-htmlbars "^2.0.1"
     ember-power-select "^2.0.1"
 
-ember-power-select@^2.0.0, ember-power-select@^2.0.1:
+ember-power-select@^2.0.1:
   version "2.0.9"
   resolved "https://registry.yarnpkg.com/ember-power-select/-/ember-power-select-2.0.9.tgz#ebe08f7d3f2fdec44558370adaa6b533486132b5"
+  dependencies:
+    ember-basic-dropdown "^1.0.0"
+    ember-cli-babel "^6.16.0"
+    ember-cli-htmlbars "^3.0.0"
+    ember-concurrency "^0.8.19"
+    ember-text-measurer "^0.4.0"
+    ember-truth-helpers "^2.0.0"
+
+ember-power-select@^2.0.13:
+  version "2.0.14"
+  resolved "https://registry.yarnpkg.com/ember-power-select/-/ember-power-select-2.0.14.tgz#4f0cba54c39655afecf855d74c769836723f22a6"
   dependencies:
     ember-basic-dropdown "^1.0.0"
     ember-cli-babel "^6.16.0"
