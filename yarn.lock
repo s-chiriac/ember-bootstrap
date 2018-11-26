@@ -3897,9 +3897,9 @@ ember-factory-for-polyfill@^1.3.1:
   dependencies:
     ember-cli-version-checker "^2.1.0"
 
-ember-fastboot-addon-tests@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/ember-fastboot-addon-tests/-/ember-fastboot-addon-tests-0.5.0.tgz#c7968c1d68e7828d85396873ebcb76355033c8d8"
+ember-fastboot-addon-tests@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/ember-fastboot-addon-tests/-/ember-fastboot-addon-tests-0.5.1.tgz#a0af9d9c80b97ddc3e03481c08cdc78931394642"
   dependencies:
     chalk "^2.4.1"
     core-object "^3.1.5"
